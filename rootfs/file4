@@ -1,0 +1,4 @@
+Selected Publications
+[HPCA] Deadline-Aware Offloading for High-Throughput Accelerators, Tsung Tai Yeh, Matthew D. Sinclair, Brad Beckmann, Timothy G Rogers, in the 27th IEEE International Symposium on High-Performance Computer Architecture, 2021. Acceptance rate: (63/258) = 24.4%
+[ASPLOS] Dimensionality-Aware Redundant SIMT Instruction Elimination, Tsung Tai Yeh, Roland Green, Timothy G. Rogers, in ACM International Conference on Architectural Support for Programming Languages and Operating Systems, 2020.Acceptance rate: 86/476 = 18%
+[PPoPP] Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks, Tsung Tai Yeh, Amit Sabne, Putt Sakdhnagool, Rudolf Eigenmann, Timothy G. Rogers, in Proceedings of ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, 2017. Acceptance rate: 39/132 = 22%, Best Paper Nominee

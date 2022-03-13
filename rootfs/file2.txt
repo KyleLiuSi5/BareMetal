@@ -1,0 +1,7 @@
+Research
+My research aims to design high throughput, low latency, and high energy efficiency domain-specific accelerators and their systems.
+My research domains:
+· Computer Architecture
+· Computer Systems
+· Memory and Storage Systems
+· Domain-specific Accelerators (GPU, Neural Processing Units)
